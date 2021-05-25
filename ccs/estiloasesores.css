@@ -1,5 +1,5 @@
 .portada{
-	background: url('./portada1.jpg') #000;
+	background: url('../img/portada1.jpg') #000;
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
@@ -7,7 +7,7 @@
    		font-family: 'Newsreader', serif;
 		word-spacing: 15px;
 		font-weight: 100px;
-		font-size: 2em;
+		font-size: 1.5em;
 		color: rgb(5, 4, 31);
 		line-height: 1.2em;
 		text-shadow: 2px 2px 2px rgb(115, 116, 156);
