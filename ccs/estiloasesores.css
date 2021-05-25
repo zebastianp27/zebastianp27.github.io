@@ -1,5 +1,5 @@
 .portada{
-	background: url('../img/portada1.jpg') #000;
+	background: url('./img/portada1.jpg') #000;
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
